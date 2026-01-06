@@ -175,4 +175,4 @@ This simple project can be extended in many ways:
     - A web-based tool using HTML/CSS/JS with backend.
 
 **9. Output(screenshot).**
-
+<img width="891" height="229" alt="OUTPUT" src="https://github.com/user-attachments/assets/a293cd96-5518-4647-8227-4f11f5280ea1" />
